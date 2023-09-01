@@ -131,3 +131,18 @@ button:hover {
 .oculto {
     display: none;
 }
+
+#errores{
+    display: none;
+    border-radius: 20px;
+    background-color: red;
+    display: inline-block;
+    padding: 0px 20px;
+    margin: 0px;
+}
+
+#errores *{
+    font-size: 0.9rem;
+    font-weight: bold;
+    margin: auto;
+}
